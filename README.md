@@ -17,18 +17,6 @@ The Coral Reef Health Detection System is a machine learning-based application t
 - **HTML and CSS**
 - **Convolutional Neural Network (CNN)**
 
-## Project Structure
-CORAL/
-├── app.py
-├── coral_health_model.h5
-├── templates/
-│   └── index.html
-└── archive/
-    └── Dataset/
-        ├── Healthy/
-        ├── Bleached/
-        └── Dead/
-
 ## Installation and Setup
 
 1. Clone the repository:
